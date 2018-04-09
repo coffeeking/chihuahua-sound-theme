@@ -1,0 +1,7 @@
+[Sound Theme]
+Name=tigger
+Comment="a sound theme using our loveable chihuahua mix"
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
